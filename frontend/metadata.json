@@ -1,0 +1,8 @@
+{
+  "name": "VetPath Academy - Veteran LMS",
+  "description": "A specialized Learning Management System designed to help veterans translate military skills, find mentorship, and navigate civilian career paths.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
