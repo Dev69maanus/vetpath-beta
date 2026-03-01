@@ -493,3 +493,5 @@ export const apiService = {
       throw new Error('Failed to create booking');
     }
     return response.json();
+  },
+};
